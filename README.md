@@ -27,7 +27,7 @@ Neste desafio vamos criar um cadastro de usuários simples.
 * Criar o código, publicar na sua conta do github e compartilhar em modo público
 * Enviar link do seu repositório por e-mail para luiz.costa@dealersites.com.br
 * O prazo para desenvolvimento é de 3 dias após o envio deste teste
-* Não conseguiu finalizar o código? Informe no readme do seu repositório o motivo e iremos analisar o que foi desenvolvido. O importante é ter algo para analisarmos
+* Não conseguiu finalizar o código? Informe no e-mail o motivo e iremos analisar o que foi desenvolvido. O importante é ter algo para analisarmos
 
 
 Boa sorte!
